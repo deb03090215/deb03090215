@@ -4,10 +4,10 @@ Hi there 👋
 
 Here are my current projects:
 
-1. 🦠 Visualizing influenza reassortment patterns with a Shiny app
+1. 🦠 Visualizing influenza reassortment patterns
 2. 🫁 Identifying viruses that evade clinical routine examinations in community-acquired pneumonia patients
-3. 🦟 Detecting unknown pathogens in Aedes albopictus
-4. 🧬 Conducting metagenomic analysis of the virome from Formosan pangolins
+3. 🦟 Detecting unknown pathogens in Aedes albopictus and Aedes aegypti
+4. 🧬 Conducting metagenomic analysis of the virome from Formosan pangolins and Macaca cyclopis
 5. 💻 Bridging the evolutionary gap of SARS-CoV-2 using deep learning models
 
 🧰 Toolkit: R, Python, and Linux
