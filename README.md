@@ -10,7 +10,7 @@ Finished projects:
 Current projects:
 1. 🦟 Metatranscriptomic analysis of Aedes albopictus and Aedes aegypti
 2. 🐒 Metatranscriptomic analysis of Macacque cyclopis
-3. 🦠 Influenza H5N1 signitures and spillover
-4. 🦠 Influenza H1N1 signitures
+3. 🦠 Influenza H1N1 host adaptive signitures
+4. 🧬 Nanopore sequencing analysis
 
 🧰 Toolkit: Python, R, and Linux
